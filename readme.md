@@ -14,7 +14,6 @@
 - 🔭 Building: **My personal portfolio** 
 - 🌱 Learning: **Node.js**, **Advanced Python**, **JavaScript**  
 - 🎮 Hobby: **Gaming** & **Anime**
-- 🎧 Now Playing: [![Spotify](https://spotify-readme-theta.vercel.app/api/spotify)]([https://open.spotify.com/user/31p3rqehlmpusfslqfcbxiq27nv4](https://open.spotify.com/user/31p3rqehlmpusfslqfcbxiq27nv4?si=121bba20934848a0))
 - 💬 Quote: *"The world isn't perfect. But it's there for us, trying the best it can." — Roy Mustang*
  
 ---
@@ -22,7 +21,7 @@
 ## 🛠️ Tech Stack
  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,mongodb,html,css,git,vscode,figma,azure&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,js,ts,react,nodejs,mongodb,html,css,git,vscode,java,&perline=8" />
 </div>
  
 ---
