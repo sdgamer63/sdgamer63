@@ -13,7 +13,7 @@
  
 - 🔭 Building: **My personal portfolio** 
 - 🌱 Learning: **Java**  
-- 🎮 Hobby: **Gaming**, **Coding**& **Anime**
+- 🎮 Hobby: **Gaming**, **Coding** & **Anime**
 - 💬 Quote: *"The world isn't perfect. But it's there for us, trying the best it can." — Roy Mustang*
  
 ---
